@@ -1,3 +1,3 @@
-cancan101 
-asfaltboy
-medyagh
+- Alex Rothberg, cancan101 
+- Pavel Savchenko, asfaltboy
+- Medya Ghazizadeh, medyagh
