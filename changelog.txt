@@ -1,5 +1,6 @@
 v0.3.2
 - Add an icon
+- Add contributors.md file
 
 v0.3.1
 
